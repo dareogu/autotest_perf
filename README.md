@@ -1,2 +1,2 @@
-# autotest_perf
-python perf locust
+# python performance project 
+based on locust
